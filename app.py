@@ -7,7 +7,7 @@ import os
 import google.generativeai as genai
 from PIL import Image
 
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
 def get_gemini_repsonse(input_prompt,image):
     model=genai.GenerativeModel('gemini-pro-vision')
