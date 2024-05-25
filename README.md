@@ -18,7 +18,7 @@ To install and run Nutrify locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    https://github.com/Gouravlohar/Nutrify.git
+    git clone https://github.com/Gouravlohar/Nutrify.git
     ```
 2. Change to the project directory:
     ```bash
