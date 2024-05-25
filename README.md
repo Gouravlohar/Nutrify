@@ -12,6 +12,11 @@ Welcome to Nutrify, a Python and Streamlit-based web application designed to ana
 - **Healthier Alternatives**: Suggestions for healthier alternatives to the identified food items.
 
 **<span style="color:red">Note:</span>** *<span style="color:red">Sometime it can make mistakes.</span>*
+## Screenshots
+![image](https://github.com/Gouravlohar/Nutrify/assets/55839674/32d86168-5db3-4e73-b611-14b603347b50)
+![image](https://github.com/Gouravlohar/Nutrify/assets/55839674/28d196a1-920d-4753-bad7-9f64df50c8b5)
+
+
 
 ## Installation
 
