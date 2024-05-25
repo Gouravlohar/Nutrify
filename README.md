@@ -1,5 +1,5 @@
 # Nutrify
-##[Live](https://nutrify.streamlit.app/)🔻
+## [Live](https://nutrify.streamlit.app/)🔻
 <br>
 <br>
 Welcome to **Nutrify**, a Python and Streamlit-based web application designed to analyze food pictures and provide detailed nutritional information.
