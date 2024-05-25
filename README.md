@@ -1,5 +1,7 @@
 # Nutrify
-
+<a href="https://nutrify.streamlit.app/" target="_blank" style="text-decoration:none;">
+    <i class="fa fa-external-link" style="font-size:24px; color:green; animation: shake 0.5s; animation-iteration-count: infinite;"></i> Live Site Here
+</a>
 Welcome to **Nutrify**, a Python and Streamlit-based web application designed to analyze food pictures and provide detailed nutritional information.
 
 ## Features
