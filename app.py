@@ -33,6 +33,7 @@ def input_image_setup(uploaded_file):
 st.set_page_config(page_title="Nutrify")
 
 st.header("Nutrify")
+st.write("Upload your food picture and get detailed nutritional information.")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
 if uploaded_file is not None:
@@ -67,3 +68,4 @@ if submit:
     response=get_gemini_repsonse(input_prompt,image_data)
     st.subheader("The Response is")
     st.write(response)
+st.warning("Nutrify can make mistakes.")
