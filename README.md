@@ -73,4 +73,4 @@ For any questions or suggestions, please open an issue on the repository.
 
 ---
 
-Thank you for using Nutrify! We hope it helps you make healthier food choices.
+Thank you for using Nutrify! We hope it helps you make healthier food choices.😁
