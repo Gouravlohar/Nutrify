@@ -2,7 +2,7 @@
 ## [Live](https://nutrify.streamlit.app/)🔻
 <br>
 Welcome to Nutrify, a Python and Streamlit-based web application designed to analyze food pictures and provide detailed nutritional information.
-
+Full Webapp at -
 ## Features
 
 - **Food Recognition**: Upload a picture of your food, and Nutrify will identify the food items present in the image.
